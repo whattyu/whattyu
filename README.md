@@ -10,3 +10,8 @@
 
 # Discord Profile
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/496328012741214208?idleMessage=Hey%20lol&hideDiscrim=true)](https://discord.com/users/496328012741214208)
+
+<p align="center">
+ <a href="https://discord.com/users/496328012741214208" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.github.com/whattyu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/atatolgadln" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
