@@ -14,7 +14,7 @@
 ---
 
 # Discord Profile
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/496328012741214208?idleMessage=Hey%20lol&hideDiscrim=true)](https://discord.com/users/496328012741214208)
+[![Discord Presence](https://raw.githubusercontent.com/OLIMINATOR/oliminator/main/README.md)](https://discord.com/users/496328012741214208)
 
 ---
 
