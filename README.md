@@ -14,7 +14,7 @@
 ---
 
 # Discord Profile
-[![Discord Presence](https://raw.githubusercontent.com/OLIMINATOR/oliminator/main/README.md)](https://discord.com/users/496328012741214208)
+[![Discord Presence](https://discord.c99.nl/widget/theme-3/496328012741214208.png)](https://discord.com/users/496328012741214208)
 
 ---
 
