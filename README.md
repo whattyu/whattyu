@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Whattyu
 
+![whattyu's profile](https://komarev.com/ghpvc/?username=natsusaa&color=blueviolet)
+
 ### Projects
 - Hey check my bot on Top.gg [Cariye Bot](https://top.gg/bot/750966495462555700)
 - My [Covid-19 Website](https://covid-19-tracker.whattyu.repl.co/)
