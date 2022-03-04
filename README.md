@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Whattyu
 
-![whattyu's profile](https://komarev.com/ghpvc/?username=natsusaa&color=blueviolet)
+![whattyu's profile](https://komarev.com/ghpvc/?username=whattyu&color=blueviolet)
 
 ### Projects
 - Hey check my bot on Top.gg [Cariye Bot](https://top.gg/bot/750966495462555700)
