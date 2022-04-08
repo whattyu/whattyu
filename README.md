@@ -5,6 +5,7 @@
 ### Projects
 - Hey check my bot on Top.gg [Cariye Bot](https://top.gg/bot/750966495462555700)
 - My other Discord Bot [Cariye+ Bot](https://top.gg/bot/849663572308918343)
+- My [Blog Site!](https://nextjs-blog-whattyu.vercel.app/)
 - My [Covid-19 Website](https://covid-19-tracker.whattyu.repl.co/)
 - My [basic calculator website](https://calculate.whattyu.repl.co)
 - My [Tetris Game](https://tetris-game.whattyu.repl.co/)
