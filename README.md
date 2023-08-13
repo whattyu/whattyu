@@ -29,3 +29,4 @@
   <a href="https://www.github.com/whattyu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.instagram.com/atatolgadln" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://open.spotify.com/user/cu57r3p9d29xbqdk4x31yip0o" target"blank_"><img src="https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
